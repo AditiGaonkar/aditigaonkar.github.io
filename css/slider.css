@@ -54,6 +54,7 @@
     box-sizing: border-box;
     width: 40%;
     transition: 200ms all;
+    text-decoration: none;
 }  
 .morebutton:hover {
     background: #3b3b3b;
